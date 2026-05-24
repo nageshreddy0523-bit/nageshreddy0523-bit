@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=nageshreddy0523-bit&color=brightgreen&style=flat-square&label=Profile+Views)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+NAGESHWAR+REDDY+👋;Salesforce+Developer+%26+Administrator;3.5%2B+Years+of+Salesforce+Experience;Building+Scalable+CRM+Solutions+☁️;LWC+%7C+Apex+%7C+Flow+Builder+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Salesforce+Developer+%26+Administrator;3.5%2B+Years+of+Experience;Building+Scalable+CRM+Solutions&font=Fira+Code&center=true&width=600&height=50&color=00A1E0&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 
 </div>
 
@@ -80,7 +80,6 @@ I'm a passionate **Salesforce Developer & Administrator** with **3.5+ years of e
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nageshreddy0523-bit)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nageshreddy0523-bit)
 
 </div>
